@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://RK123:pass@devconnect.ukhdh.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "defd3d5c56ff253cdc8d",
+    "githubSecret": "ccc04769de68cb5b63aa721f5a2781a328b7ca2e",
+    "githubToken": "d2511d49ff82b2a2ddddef0359f1de9794dd6018"
+}
